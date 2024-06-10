@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/14LEi06h1E_07ngr4rBP59hgF2eJ8pSY-/view?usp=drive_link)
 
-- ⚡ Fun fact **My friends affectionately call me Sahan**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
