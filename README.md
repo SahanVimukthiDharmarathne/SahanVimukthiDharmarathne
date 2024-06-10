@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Java and Python**
 
-- 📫 How to reach me **sahanvimukthiu@gmail.com** <a href="mailto:sahanvimukthiu@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- 📫 How to reach me **sahanvimukthiu@gmail.com** <a href="mailto:sahanvimukthiu@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> [**Sahan Dharmarathne**](https://www.linkedin.com/in/sahan-dharmarathne-720468293/) <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/14LEi06h1E_07ngr4rBP59hgF2eJ8pSY-/view?usp=drive_link)
+- 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/14LEi06h1E_07ngr4rBP59hgF2eJ8pSY-/view?usp=drive_link)
 
 - ⚡ Fun fact **My friends affectionately call me Sahan.**
 
