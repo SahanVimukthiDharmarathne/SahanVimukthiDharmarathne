@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sahan Dharmarathne</h1>
+<h1 align="center">Hi 👋, I'm Sahan Dharmarathne <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="75"></h1>
 <h3 align="center">A Motivated Software Developer Who is Seeking for an Internship</h3>
-<h4 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="80"></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahanvimukthidharmarathne&label=Profile%20views&color=0e75b6&style=flat" alt="sahanvimukthidharmarathne" /> </p>
 
 
