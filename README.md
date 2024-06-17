@@ -3,7 +3,7 @@
 <h3 align="center">An Innovative Software Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahanvimukthidharmarathne&label=Profile%20views&color=0e75b6&style=flat" alt="sahanvimukthidharmarathne" /> </p>
 
----
+<h2>About Me</h2>
 
 - 🎓 I'm an ***Undergraduate at IIT affiliated with the University of Westminster***
   
@@ -16,6 +16,8 @@
 - 📄 Know about my experiences [***RESUME***](https://drive.google.com/file/d/14LEi06h1E_07ngr4rBP59hgF2eJ8pSY-/view?usp=drive_link)
 
 ---
+
+<h2>My Skills</h2>
 
 <table align="center" width="100%">
 <tr border="none">
