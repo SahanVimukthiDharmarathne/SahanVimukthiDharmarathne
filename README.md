@@ -70,6 +70,7 @@
 
 ---
 
+<h2>My GitHub Stats</h2>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanvimukthidharmarathne&show_icons=true&locale=en&layout=compact" alt="sahanvimukthidharmarathne" /></p>
 
@@ -85,5 +86,3 @@
 <a href="https://fb.com/sahan.vimukthi.3998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahan.vimukthi.3998" height="30" width="40" /></a>
 <a href="https://instagram.com/___sahan4071___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___sahan4071___" height="30" width="40" /></a>
 </p>
-
----
