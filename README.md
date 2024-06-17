@@ -17,9 +17,9 @@
 
 ---
 
-<table align="center">
+<table align="center" width="100%">
 <tr border="none">
-<td width="60%" align="left">
+<td width="50%" align="left">
 <h3>Languages</h3>
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -32,7 +32,7 @@
 </p>
 </td>
 
-<td width="60%" align="left">
+<td width="50%" align="left">
 <h3>Frameworks</h3>
 <p>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -44,6 +44,8 @@
 </td>
 </tr>
 </table>
+
+
 
 <!--
 <h3 align="left">Languages and Frameworks:</h3>
